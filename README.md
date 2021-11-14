@@ -1,1 +1,1 @@
-# skopek_boxy
+skopek_boxy To pisany ręcznie skrypt przeze mnie, polega on na typowych "Mystery boxach", działa on z skryptami takimi jak mythic_progbar oraz okokNotify, jeżeli trzeba zmienić to napisz na PV Skopuś#0346 i się dogadamy :D (PS. Ma on fajne animacje w sobię przy otwieraniu oraz powiadomienia i pasek ładowania podczas otwierania :P )
